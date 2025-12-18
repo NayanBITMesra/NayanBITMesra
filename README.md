@@ -5,9 +5,9 @@
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Nayan Shenoy!](https://github.com/NayanBITMesra)
 I'm a **4th Year CSE undergrad** 🎓 at **BIT Mesra**, aspiring to be **Software Engineer**. 
 
-<p>Incoming **SDE Intern** at **Oracle** <\p>
-<\br>
-<p> Worked as a **Software Engineering Intern** at **TP Vision(Philips)** , where I gained hands-on experience with real-world, industry-level projects.</p>
+## Incoming **SDE Intern** at **Oracle*
+
+## Worked as a **Software Engineering Intern** at **TP Vision(Philips)** , where I gained hands-on experience with real-world, industry-level projects
 
 <p>
 <a href="https://www.linkedin.com/in/nayan-shenoy-14704a24b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
